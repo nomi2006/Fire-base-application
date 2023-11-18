@@ -1,0 +1,2 @@
+1.Authentication >register>login
+page ko reload se bachane ke liye {e.preventDefault()}used krte hain
